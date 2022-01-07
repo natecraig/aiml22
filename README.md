@@ -1,1 +1,2 @@
-# aiml22
+# Artificial Intelligence and Machine Learning
+Spring 2022
