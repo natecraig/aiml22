@@ -1,24 +1,16 @@
 # News and Optional Articles
 
-- [AI Dungeon](https://play.aidungeon.io/main/landing)
 - [How the New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
-- [AI learns from brain signals to create personalized attractive faces](https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/)
 - [How Amazon Assistant Lets Amazon Track Your Every Move on the Web](https://palant.info/2021/03/08/how-amazon-assistant-lets-amazon-track-your-every-move-on-the-web/)
-- [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
 - [“User Engagement” Is Code For “Addiction”](https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) The Gradient
 - [This is how we lost control of our faces.](https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/) MIT Technology Review
 - Face and attention tracking: [Android](https://github.com/Pradyuman7/TrackEyes), [iOS](https://developer.apple.com/documentation/arkit/tracking_and_visualizing_faces)
-- [Palantir’s God’s-Eye View of Afghanistan.](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/) Wired
 - [This X Does Not Exist](https://thisxdoesnotexist.com)
 - [Tech Companies Are Profiling Us From Before Birth.](https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/) MIT Press Reader
 - [A Visual History of Interpretation for Image Recognition.](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) The Gradient
-- [The Dark Past of Algorithms That Associate Appearance and Criminality.](https://www.americanscientist.org/article/the-dark-past-of-algorithms-that-associate-appearance-and-criminality) American Scientist
-- [Jumbled-up sentences show that AIs still don’t really understand language.](https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/) MIT Technology Review
+- [Jumbled-up sentences show that AIs still don't really understand language.](https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/) MIT Technology Review
 - [Seeing Like an Algorithm](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm)
 - [The global AI agenda: Promise, reality, and a future of data sharing.](https://www.technologyreview.com/2020/03/26/950287/the-global-ai-agenda-promise-reality-and-a-future-of-data-sharing/) MIT Technology Review
-- [He Created the Web. Now He’s Out to Remake the Digital World.](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html) NYT
-- [Artificial Intelligence Will Do What We Ask. That’s a Problem.](https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/) Quanta
-- [Ditching Excel for Python – Lessons Learned from a Legacy Industry](https://amypeniston.com/ditching-excel-for-python/)
-- [Amazon Changes the Way It Recruits M.B.A.s.](https://www.wsj.com/articles/amazon-changes-the-way-it-recruits-m-b-a-s-11582021802) WSJ
+- [Artificial Intelligence Will Do What We Ask. That's a Problem.](https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/) Quanta
 - [Why Amazon knows so much about you.](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data) BBC
