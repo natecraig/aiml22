@@ -1,4 +1,4 @@
-# Potential Data Sources for Papers
+# Potential Data Sources for Projects
 
 ## Public Data from Organizations
 - [Airbnb Data](http://insideairbnb.com/get-the-data.html)
