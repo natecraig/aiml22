@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [McKinsey: These are the skills you will need for the future of work](https://www.weforum.org/agenda/2021/06/defining-the-skills-citizens-will-need-in-the-future-world-of-work/) World Economic Forum
 - [How the New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
 - [How Amazon Assistant Lets Amazon Track Your Every Move on the Web](https://palant.info/2021/03/08/how-amazon-assistant-lets-amazon-track-your-every-move-on-the-web/)
 - [“User Engagement” Is Code For “Addiction”](https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac)
