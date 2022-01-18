@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [The Rise of AI Fighter Pilots.](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots) The New Yorker
 - [Chatbots: Still Dumb After All These Years.](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) Andrew Gelman
 - [McKinsey: These are the skills you will need for the future of work.](https://www.weforum.org/agenda/2021/06/defining-the-skills-citizens-will-need-in-the-future-world-of-work/) World Economic Forum
 - [How the New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
