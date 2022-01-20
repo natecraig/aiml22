@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders.](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602) WSJ
 - [The Rise of AI Fighter Pilots.](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots) The New Yorker
 - [Chatbots: Still Dumb After All These Years.](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) Andrew Gelman
 - [McKinsey: These are the skills you will need for the future of work.](https://www.weforum.org/agenda/2021/06/defining-the-skills-citizens-will-need-in-the-future-world-of-work/) World Economic Forum
