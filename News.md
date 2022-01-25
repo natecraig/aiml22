@@ -1,11 +1,7 @@
 # News and Optional Articles
 
-<<<<<<< HEAD
 - [Meta Unveils New AI Supercomputer.](https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601) WSJ
-- [TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders.](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602) WSJ
-=======
 - [TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders.](https://archive.is/hQabE) WSJ
->>>>>>> 108b5f32c40a793417dd7aee539be385aba30e50
 - [The Rise of AI Fighter Pilots.](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots) The New Yorker
 - [Chatbots: Still Dumb After All These Years.](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) Andrew Gelman
 - [McKinsey: These are the skills you will need for the future of work.](https://www.weforum.org/agenda/2021/06/defining-the-skills-citizens-will-need-in-the-future-world-of-work/) World Economic Forum
