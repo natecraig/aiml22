@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [Meta Unveils New AI Supercomputer.](https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601) WSJ
 - [TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders.](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602) WSJ
 - [The Rise of AI Fighter Pilots.](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots) The New Yorker
 - [Chatbots: Still Dumb After All These Years.](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) Andrew Gelman
