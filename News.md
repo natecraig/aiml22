@@ -1,6 +1,6 @@
 # News and Optional Articles
 
-- [U.S. Army's New Drone Swarm May Be A Weapon Of Mass Destruction](https://www.forbes.com/sites/davidhambling/2020/06/01/why-new-us-armys-tank-killing-drone-swarm-may-be-a-weapon-of-mass-destruction)
+- [U.S. Army's New Drone Swarm May Be A Weapon Of Mass Destruction.](https://www.forbes.com/sites/davidhambling/2020/06/01/why-new-us-armys-tank-killing-drone-swarm-may-be-a-weapon-of-mass-destruction) Forbes
 - [DALL·E: Creating Images from Text.](https://openai.com/blog/dall-e/) OpenAI
 - [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning.](https://www.youtube.com/watch?v=SGzMElJ11Cc) Lex Fridman Podcast
 - [Chess engine sacrifices mastery to mimic human play.](https://news.cornell.edu/stories/2021/01/chess-engine-sacrifices-mastery-mimic-human-play)
