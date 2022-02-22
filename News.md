@@ -1,7 +1,10 @@
 # News and Optional Articles
 
+- [U.S. Army's New Drone Swarm May Be A Weapon Of Mass Destruction](https://www.forbes.com/sites/davidhambling/2020/06/01/why-new-us-armys-tank-killing-drone-swarm-may-be-a-weapon-of-mass-destruction)
+- [DALL·E: Creating Images from Text.](https://openai.com/blog/dall-e/) OpenAI
 - [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning.](https://www.youtube.com/watch?v=SGzMElJ11Cc) Lex Fridman Podcast
 - [Chess engine sacrifices mastery to mimic human play.](https://news.cornell.edu/stories/2021/01/chess-engine-sacrifices-mastery-mimic-human-play)
+- [Where Do Machine Learning Engineers Work?](https://gradientflow.com/where-do-machine-learning-engineers-work/)
 - [Meta Unveils New AI Supercomputer.](https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601) WSJ
 - [TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders.](https://archive.is/hQabE) WSJ
 - [The Rise of AI Fighter Pilots.](https://www.newyorker.com/magazine/2022/01/24/the-rise-of-ai-fighter-pilots) The New Yorker
