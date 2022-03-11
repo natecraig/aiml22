@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [Future Computers Will Be Radically Different. (Analog Neural Nets)](https://www.youtube.com/watch?v=GVsUOuSjvcg) Veritasium
 - [Big Tech Is Spending Billions on AI Research. Investors Should Keep an Eye Out.](https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?mod=tech_lead_pos11) WSJ
 - [To Be Energy-Efficient, Brains Predict Their Perceptions.](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/) Quanta
 - [U.S. Army's New Drone Swarm May Be A Weapon Of Mass Destruction.](https://www.forbes.com/sites/davidhambling/2020/06/01/why-new-us-armys-tank-killing-drone-swarm-may-be-a-weapon-of-mass-destruction) Forbes
