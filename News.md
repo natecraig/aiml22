@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [MoviePass 2.0 Wants to Track Your Eyeballs to Make Sure You Watch Ads.](https://www.vice.com/en/article/akvnba/moviepass-20-wants-to-track-your-eyeballs-to-make-sure-you-watch-ads) Vice
 - [Future Computers Will Be Radically Different. (Analog Neural Nets).](https://www.youtube.com/watch?v=GVsUOuSjvcg) Veritasium
 - [Big Tech Is Spending Billions on AI Research. Investors Should Keep an Eye Out.](https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?mod=tech_lead_pos11) WSJ
 - [To Be Energy-Efficient, Brains Predict Their Perceptions.](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/) Quanta
